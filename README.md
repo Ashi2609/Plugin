@@ -1,2 +1,2 @@
 # Plugin
-CMS Assignment-3 Plugin
+Footer Text Widget
